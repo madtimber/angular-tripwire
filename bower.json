@@ -1,0 +1,24 @@
+{
+  "name": "angular-tripwire",
+  "version": "0.1.0",
+  "authors": [
+    "Todd Baker <toddlbaker@gmail.com>"
+  ],
+  "description": "Angular directive that allows you to fire functions after scrolling the content of an element past a point.",
+  "main": "tripwire.js",
+  "keywords": [
+    "scroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "./test.html"
+  ],
+  "dependencies": {
+    "angular": "~1.2.26"
+  }
+}
